@@ -1,4 +1,11 @@
 sensornet
 =========
 
-Code for running a network of sensors on various microprocessors using nRF24L01+ radios
+This code will demonstrate building a network of sensors using multiple
+microprocessor platforms using nRF24L01+ transcievers.
+
+At this point the platforms include:
+ * Arduino
+ * Raspberry Pi
+ * BeagleBone Black
+
